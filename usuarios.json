@@ -1,0 +1,94 @@
+[
+  {
+    "id": 1,
+    "username": "vitinho",
+    "password": "123"
+  },
+  {
+    "id": 2,
+    "username": "vi",
+    "password": "123"
+  },
+  {
+    "id": 3,
+    "username": "Vitinho",
+    "password": "123"
+  },
+  {
+    "id": 4,
+    "username": "mercado do tio ze",
+    "password": "123",
+    "cpf": null,
+    "cnpj": "369888777-0111"
+  },
+  {
+    "id": 5,
+    "username": "lary",
+    "password": "123",
+    "cpf": "36988899987",
+    "cnpj": null
+  },
+  {
+    "id": 6,
+    "username": "victor",
+    "password": "123",
+    "cpf": "67890",
+    "cnpj": null
+  },
+  {
+    "id": 7,
+    "username": "Victor Hugo",
+    "password": "123",
+    "cpf": "36988888823",
+    "cnpj": null
+  },
+  {
+    "id": 8,
+    "username": "Mercado do Victor",
+    "password": "123",
+    "cpf": null,
+    "cnpj": "12345678"
+  },
+  {
+    "id": 9,
+    "username": "Victor Hugo Souza",
+    "password": "123",
+    "cpf": "123456789",
+    "cnpj": null
+  },
+  {
+    "id": 10,
+    "username": "Victor Hugo Souza Oliveira",
+    "password": "123",
+    "cpf": "36980088825",
+    "cnpj": null
+  },
+  {
+    "id": 11,
+    "username": "Mercado do Victor Hugo",
+    "password": "123",
+    "cpf": null,
+    "cnpj": "12345678"
+  },
+  {
+    "id": 12,
+    "username": "Henrique",
+    "password": "123",
+    "cpf": "12345",
+    "cnpj": null
+  },
+  {
+    "id": 13,
+    "username": "Jefferson",
+    "password": "123",
+    "cpf": "1234567",
+    "cnpj": null
+  },
+  {
+    "id": 14,
+    "username": "Mercado do Jefferson",
+    "password": "123",
+    "cpf": null,
+    "cnpj": "1234567"
+  }
+]
