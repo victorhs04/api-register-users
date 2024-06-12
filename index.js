@@ -54,7 +54,7 @@ const writeCarsToFile = (cars) => {
 
 // Rota raiz
 app.get('/', (req, res) => {
-  res.send('Welcome to the API Register Users!');
+  res.send('api vitinho!');
 });
 
 app.get('/api/cars', (req, res) => {
