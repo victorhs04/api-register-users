@@ -52,6 +52,11 @@ const writeCarsToFile = (cars) => {
   }
 };
 
+// Rota raiz
+app.get('/', (req, res) => {
+  res.send('Welcome to the API Register Users!');
+});
+
 app.get('/api/cars', (req, res) => {
   const cars = readCarsFromFile();
   res.json(cars);
@@ -106,6 +111,6 @@ app.post('/api/users/login', (req, res) => {
   }
 });
 
-app.listen(5000, () => {
-  console.log('Servidor rodando na porta 5000');
+app.listen(port, () => {
+  console.log(`Servidor rodando na porta ${port}`);
 });
